@@ -17,6 +17,32 @@
 - keyboard dismiss
 - force lowercase  
 
+# Architecture
+
+[https://github.com/paigeshin/UIKitCoordinatorPattern](https://github.com/paigeshin/UIKitCoordinatorPattern)
+
+[Coordinator](https://www.notion.so/Coordinator-0e3b9e909c06440a84267d27855c8245)
+
+[https://github.com/paigeshin/UIKitDI](https://github.com/paigeshin/UIKitDI)
+
+[Dependency Injection ](https://www.notion.so/Dependency-Injection-a52b8d41476a4e11b3cf47a7e7898f33)
+
+[https://github.com/paigeshin/UIKitMVP](https://github.com/paigeshin/UIKitMVP)
+
+[MVP Pattern](https://www.notion.so/MVP-Pattern-79fe03fdc1aa464fb5fc112178b78b7e)
+
+[https://github.com/paigeshin/UIKitMVVMPattern](https://github.com/paigeshin/UIKitMVVMPattern)
+
+[MVVM](https://www.notion.so/MVVM-708bf2bb46904552b40e3394db990a3a)
+
+[https://github.com/paigeshin/UIKitViperPattern](https://github.com/paigeshin/UIKitViperPattern)
+
+[Viper Pattern ](https://www.notion.so/Viper-Pattern-744e5ec8f7154f8485785062cc1bf273)
+
+[https://github.com/paigeshin/UIKitEventBusMVVM](https://github.com/paigeshin/UIKitEventBusMVVM)
+
+[Swift MVVM Event Bus](https://www.notion.so/Swift-MVVM-Event-Bus-c09facc6c5764b3e808a705e7a38d451)
+
 # Essential Libraries
 
 [Snapkit Tutorial](https://github.com/paigeshin/Snapkit-Tutorial)
