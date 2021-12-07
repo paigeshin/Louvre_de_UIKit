@@ -17,6 +17,110 @@
 - keyboard dismiss
 - force lowercase  
 
+# `View` Tutorial
+
+### Grammar
+
+[Fallthrough](https://0urtrees.tistory.com/134)
+
+[Fallthrough](https://www.notion.so/Fallthrough-9997f64427114a08bb270ca8a23aafa8)
+
+[Enum](https://www.notion.so/Enum-0d7657f4aae340789e9ca33e267a189d)
+
+[Control flow](https://www.notion.so/Control-flow-9ddaa7c8b5114538958c9dc8db0ee528)
+
+[Access Modifier](https://www.notion.so/Access-Modifier-886643451c45492bb78230db7dc1b62b)
+
+[Protocol Oriented](https://www.notion.so/Protocol-Oriented-04e5586b354f428eaa136a7504c2aac3)
+
+### Views
+
+[Understanding UIView](https://www.notion.so/Understanding-UIView-29b620a2ebf942ecac0b3bb9b748d514)
+
+[iOS Coordinate System](https://www.notion.so/iOS-Coordinate-System-b67859d116504f10b0ae7b1e1517e8e1)
+
+[Frame vs Bounds](https://www.notion.so/Frame-vs-Bounds-87163f8fdb2440e788fca417d3fa46fd)
+
+[The case for autolayout ](https://www.notion.so/The-case-for-autolayout-7c4f812cf6334c28bc0d847e64c4514f)
+
+[Autolayout Basic](https://www.notion.so/Autolayout-Basic-fa269a6dadcd4e7d8d5fa51d2ad0af8b)
+
+[Horizontal and Vertical Container Alignment Constraints](https://www.notion.so/Horizontal-and-Vertical-Container-Alignment-Constraints-7cf356aa483b4459898848a9559b56d3)
+
+[Edge and Center Alignment Constraints](https://www.notion.so/Edge-and-Center-Alignment-Constraints-130588c3b54744f9983bb3a0998bd213)
+
+[Intrinsic Content Size and Baseline](https://www.notion.so/Intrinsic-Content-Size-and-Baseline-2a55abea7a634d0997925912367b6c6b)
+
+[Content Hugging Priority](https://www.notion.so/Content-Hugging-Priority-2b6d1f96529848ebafe2a222dfafe7b6)
+
+[Content Compression Resistance Priority](https://www.notion.so/Content-Compression-Resistance-Priority-51661ed3e36547679305829b5a2b0e83)
+
+[Multiplier](https://www.notion.so/Multiplier-b534163aa61947dc935c5452a6c0d9ca)
+
+[UIView with intrinsic content size](https://www.notion.so/UIView-with-intrinsic-content-size-bcba6909c60349ab9f113604a2c92623)
+
+[Views with & without intrinsic content size](https://www.notion.so/Views-with-without-intrinsic-content-size-97e36ea58dc146e3af4967a6f1b67262)
+
+[Aspect Ratio](https://www.notion.so/Aspect-Ratio-654a4ff6b6044760a1c8f131494496f0)
+
+[Adaptive Layout using storyboard ](https://www.notion.so/Adaptive-Layout-using-storyboard-bca8c9ed0a024aa094d424debbc9fd24)
+
+[Safe Area](https://www.notion.so/Safe-Area-7b5c0c5d4a074d82a079c53d5b667354)
+
+[Autolayout as equations](https://www.notion.so/Autolayout-as-equations-9a0dbd8782474bf896186b1eaebcb990)
+
+[Programmatic Layout Basic ](https://www.notion.so/Programmatic-Layout-Basic-0590e5ffd6034ab0a34422d7896655e7)
+
+[Content Hugging, Compression Resistance, Priority](https://www.notion.so/Content-Hugging-Compression-Resistance-Priority-882ec4feb43649d1a8d590aa187c1b8e)
+
+[Use Size Class Programmatically](https://www.notion.so/Use-Size-Class-Programmatically-b2d9e760ac7e45a6825985956f5c13eb)
+
+[Autolayout quiz](https://www.notion.so/Autolayout-quiz-e6e128797f21458db17301e6bd077c37)
+
+### UIView Fundamentals - Video
+
+[UIView Faundamentals](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11830204#overview)
+
+[The case for Autolayout](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11831190#overview)
+
+[The Basics of Storyboard Constraints](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11831888#overview)
+
+[Horizontal and Vertical Container Alignment Constraints](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11873860#overview)
+
+[Edge and Center Alignment Constraints](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11874418#overview)
+
+[Intrinsic Content Size and Baseline](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11874962#overview)
+
+[Content Hugging Priority](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11874972#overview)
+
+[Content Compression Resistance Priority](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11874974#overview)
+
+[Multiplier](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11881728#overview)
+
+[Autolayout Practice: Simple Billing Form](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11878206#overview)
+
+[Aspect Ratio Constraints](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11875202#overview)
+
+[Landscape Orientation Problems](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11875204#overview)
+
+[Adaptive Layout and Size Classes](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11876250#overview)
+
+[Portrait and Landscape Orientation Autolayout](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11876252#overview)
+
+[iPhone and iPad Autolayout](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11876262#overview)
+
+[Safe Areas](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11884242#overview)
+
+[Why Support iPhone 4S?](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11884250#overview)
+
+[Autolayout as Equations](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11880308#overview)
+
+[Programmatic Autolayout Basics](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11880386#overview)
+
+[Programmatic Autolayout Priorities](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11881742#overview)
+
+[Programmatic Autolayout Size Classes](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11881754#overview)
+
 # Architecture
 
 [https://github.com/paigeshin/UIKitCoordinatorPattern](https://github.com/paigeshin/UIKitCoordinatorPattern)
