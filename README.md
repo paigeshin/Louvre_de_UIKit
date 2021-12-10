@@ -762,7 +762,9 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 # Error Handling
 [Mongo Error code explained + Handle Error in swift](https://www.notion.so/Mongo-Error-code-explained-Handle-Error-in-swift-779e9bc286724c20a929693597d231b3)
 
+# Date
 
+[Get Minutes Difference From Two Dates](https://www.notion.so/Get-Minutes-Difference-From-Two-Dates-a7a70fadcfd24b01978dfdf2904620b1)
 
 # Reusabilitiy
 
@@ -777,6 +779,8 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Workout Manager](https://www.notion.so/Workout-Manager-d83231b26ff8456eb6a7ccc8ec8baeda)
 
 [Swift, 다른 hosting view에서 함수 정의하게 하게 , using `typealias`](https://www.notion.so/Swift-hosting-view-using-typealias-9637027bae7b4f2cbd017cbe198be54b)
 
@@ -1374,6 +1378,8 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Swift ARDicee Project](https://www.notion.so/Swift-ARDicee-Proejct-cfdcd3e7d2af457cae492cc34d4b1899)
 
 # Business
+
+[InAppTest](https://help.apple.com/app-store-connect/#/dev7e89e149d)
 
 [Fetch Ad tracking code ](https://www.notion.so/Fetch-Ad-tracking-code-d7278c9340ec450f80a9b7d3d8d68f50)
 
