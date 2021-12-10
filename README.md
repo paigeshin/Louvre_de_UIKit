@@ -19,6 +19,9 @@
 
 # `View` Tutorial
 
+# Swift Language
+
+[Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
 
 ### Views
 
