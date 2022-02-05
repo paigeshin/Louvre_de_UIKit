@@ -23,6 +23,13 @@
 
 [Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
 
+# Offline First 
+
+[https://www.bsgroup.eu/blog/6-key-considerations-make-offline-first-app/](https://www.bsgroup.eu/blog/6-key-considerations-make-offline-first-app/)
+
+[https://stackoverflow.com/questions/46441643/how-cloudkit-sync-with-multiple-devices](https://stackoverflow.com/questions/46441643/how-cloudkit-sync-with-multiple-devices)
+
+
 ### Views
 
 [Understanding UIView](https://www.notion.so/Understanding-UIView-29b620a2ebf942ecac0b3bb9b748d514)
