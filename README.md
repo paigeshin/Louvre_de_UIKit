@@ -111,7 +111,17 @@
 
 [Programmatic Autolayout Size Classes](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11881754#overview)
 
+# Navigation
+
+[Navigation Tutorial](https://seons-dev.tistory.com/21)
+
+# TDD
+
+[https://github.com/paigeshin/WhyTDD-Swift/blob/main/README.md](https://github.com/paigeshin/WhyTDD-Swift/blob/main/README.md)
+
 # Architecture
+
+[https://github.com/paigeshin/WhyTDD-Swift/blob/main/README.md](https://github.com/paigeshin/WhyTDD-Swift/blob/main/README.md)
 
 [https://github.com/paigeshin/UIKitCoordinatorPattern](https://github.com/paigeshin/UIKitCoordinatorPattern)
 
