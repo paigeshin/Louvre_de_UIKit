@@ -19,6 +19,20 @@
 
 # `View` Tutorial
 
+# Content Hugging, Content Resistance
+
+### Content Hugging
+
+- The higher the content hugging priority is, then more likely it is to maintain its intrinsic content size.
+- The lower the content hugging priority is, then less likely it is to maintain its intrinsic content size.
+
+### Content Compression
+
+- Compression resistance determines how much a particular view with an intrinsic content size is able to resist any changes to its size.
+- This becomes really important in the event that one of those views would have to overlap over it.
+- The higher the content compression priority is, then more likely it is to maintain its size.
+- The less the content compression priority is, then less likely it is to maintain its intrinsic content size.
+
 # Swift Language
 
 [Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
