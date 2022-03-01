@@ -90,7 +90,7 @@
 
 # Autolayout
 
-# Anchors Concept
+### Anchors Concept
 
 [What are Layout Guides?](https://www.notion.so/What-are-Layout-Guides-f236937152234d04972fad54eeb19037)
 
@@ -136,11 +136,11 @@
 
 [Adaptive Layout Stackview with hidden property](https://gist.github.com/paigeshin/d5b407f3a8bc41d0abf2340abbd84d59)
 
-# Reusable View
+### Reusable View
 
 [stackview reusable spacer view](https://gist.github.com/paigeshin/fd1f58ecef616414b344ff2b83b620ab)
 
-# StackView
+### StackView
 
 [StackView](https://www.notion.so/StackView-796cf21e2bb84d27b417a8ba57686fde)
 
@@ -158,7 +158,7 @@
 
 [fundamental stackview and customview](https://gist.github.com/paigeshin/74c8d2d1485853d2044db0adc302a062)
 
-# Adaptive Layout Tips
+### Adaptive Layout Tips
 
 [Techniques for Adapting Layouts & Designs](https://www.notion.so/Techniques-for-Adapting-Layouts-Designs-6ed884dc69544c0bb1cdea5805b3dfa5)
 
@@ -167,6 +167,10 @@
 [Adaptive Layout with isActive](https://gist.github.com/paigeshin/d5b3fb65fde668f906c7ef5447e6a753) 
 
 [Adaptive Layout Stackview with hidden property](https://gist.github.com/paigeshin/d5b407f3a8bc41d0abf2340abbd84d59)
+
+### Autolayout with images
+
+https://drive.google.com/drive/folders/1Cg70K_6om1Rryb8iS9J3zrPAnrQwe1cG
 
 ### UIView Fundamentals - Video
 
