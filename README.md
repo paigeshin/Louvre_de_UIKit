@@ -168,6 +168,19 @@
 
 [Adaptive Layout Stackview with hidden property](https://gist.github.com/paigeshin/d5b407f3a8bc41d0abf2340abbd84d59)
 
+### Size Classes
+
+- compact ⇒ usually means less space
+
+- regular ⇒ usually means wider space
+
+horizontal compact, vertical regular ⇒ iphone portraint
+
+horizontal regular, vertical compact ⇒ iphone landscape
+
+horizontal regular, vertical regular ⇒ ipad
+
+
 ### Three Ways to tweak our constraints
 
 - Change the Constant
