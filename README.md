@@ -74,6 +74,86 @@
 
 [Autolayout quiz](https://www.notion.so/Autolayout-quiz-e6e128797f21458db17301e6bd077c37)
 
+# Autolayout
+
+# Anchors Concept
+
+[What are Layout Guides?](https://www.notion.so/What-are-Layout-Guides-f236937152234d04972fad54eeb19037)
+
+[ReadableContentGuide Example Code](https://gist.github.com/paigeshin/3669f28a634afe05f1e1dbd54b71b575) 
+
+[SafeAreaGuide Example Code](https://gist.github.com/paigeshin/8172e05f9a0a8f452a302b4b02ce396b)
+
+[Layout Margin Guide Example Code](https://gist.github.com/paigeshin/982db7568e15034b78445d6741023494)
+
+[LayoutGuide For Automatic Spacing Example Code](https://gist.github.com/paigeshin/76fa53ab0bc644d37c4b74b5f6efb087)
+
+[Intrinsic Content Size](https://www.notion.so/Intrinsic-Content-Size-3a4c35c69589492fbaa7c187a69b7998)
+
+[Content Hugging & Content Compression Concept](https://gist.github.com/paigeshin/b0af720ea9653ba2b3a218669890cfd5)
+
+[Override Intrinsic Content Size with Code](https://gist.github.com/paigeshin/18a4f6e7fefc488ea3cfacaa467e7358) 
+
+[Content Hugging Priority with Code](https://gist.github.com/paigeshin/68accf60af92084dea81fe152b88d552)
+
+[Hugging Priority and Compression Resistance with Code](https://gist.github.com/paigeshin/64f2c3ecb746fce1b8f809d39ef80e71)
+
+[StackView](https://www.notion.so/StackView-796cf21e2bb84d27b417a8ba57686fde)
+
+[UIStackView Tutorial](https://gist.github.com/paigeshin/aaaef6436026d08e8b8794be1d8fb075)
+
+[Understanding StackView Distribution](https://www.notion.so/Understanding-StackView-Distribution-0583374a593a46549b9ea14ba37ea8ba)
+
+[StackView + ScrollView](https://gist.github.com/paigeshin/dc85c6e25b01fde849a3880989725629)
+
+[set stack view margin (code)](https://gist.github.com/paigeshin/48ff4db0cc53292cfcea903275d5897c)
+
+[stackview reusable spacer view](https://gist.github.com/paigeshin/fd1f58ecef616414b344ff2b83b620ab)
+
+[StackView, What you need to know](https://www.notion.so/StackView-What-you-need-to-know-bcac8b4c963d470d955b5bc0c086095f)
+
+[fundamental stackview and customview](https://gist.github.com/paigeshin/74c8d2d1485853d2044db0adc302a062)
+
+[Techniques for Adapting Layouts & Designs](https://www.notion.so/Techniques-for-Adapting-Layouts-Designs-6ed884dc69544c0bb1cdea5805b3dfa5)
+
+[Adaptive Layout Change Constant](https://gist.github.com/paigeshin/3dd2c994f2ce6852d3ee545ae3f80fb2)
+
+[Adaptive Layout with isActive](https://gist.github.com/paigeshin/d5b3fb65fde668f906c7ef5447e6a753) 
+
+[Adaptive Layout Stackview with hidden property](https://gist.github.com/paigeshin/d5b407f3a8bc41d0abf2340abbd84d59)
+
+# Reusable View
+
+[stackview reusable spacer view](https://gist.github.com/paigeshin/fd1f58ecef616414b344ff2b83b620ab)
+
+# StackView
+
+[StackView](https://www.notion.so/StackView-796cf21e2bb84d27b417a8ba57686fde)
+
+[UIStackView Tutorial](https://gist.github.com/paigeshin/aaaef6436026d08e8b8794be1d8fb075)
+
+[Understanding StackView Distribution](https://www.notion.so/Understanding-StackView-Distribution-0583374a593a46549b9ea14ba37ea8ba)
+
+[StackView + ScrollView](https://gist.github.com/paigeshin/dc85c6e25b01fde849a3880989725629)
+
+[set stack view margin (code)](https://gist.github.com/paigeshin/48ff4db0cc53292cfcea903275d5897c)
+
+[stackview reusable spacer view](https://gist.github.com/paigeshin/fd1f58ecef616414b344ff2b83b620ab)
+
+[StackView, What you need to know](https://www.notion.so/StackView-What-you-need-to-know-bcac8b4c963d470d955b5bc0c086095f)
+
+[fundamental stackview and customview](https://gist.github.com/paigeshin/74c8d2d1485853d2044db0adc302a062)
+
+# Adaptive Layout Tips
+
+[Techniques for Adapting Layouts & Designs](https://www.notion.so/Techniques-for-Adapting-Layouts-Designs-6ed884dc69544c0bb1cdea5805b3dfa5)
+
+[Adaptive Layout Change Constant](https://gist.github.com/paigeshin/3dd2c994f2ce6852d3ee545ae3f80fb2)
+
+[Adaptive Layout with isActive](https://gist.github.com/paigeshin/d5b3fb65fde668f906c7ef5447e6a753) 
+
+[Adaptive Layout Stackview with hidden property](https://gist.github.com/paigeshin/d5b407f3a8bc41d0abf2340abbd84d59)
+
 ### UIView Fundamentals - Video
 
 [UIView Faundamentals](https://www.udemy.com/course/app-design-uiux-plus-ios-development/learn/lecture/11830204#overview)
